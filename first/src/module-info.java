@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mycom
+ *
+ */
+module first {
+}
